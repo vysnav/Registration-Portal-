@@ -21,7 +21,7 @@ This is a Python app that can be accessed by 2 entities, namely "Administrator" 
  
  ## Setup
 After installing all that requirements, download both the `images` folder and `Program.py` file in a single folder.
-![](images/readme1.png)
+ ![](images/readme1.png)
  ## That's it 😁
  #### Now run the `Program.py` in any Text editor to view the GUI.
  
