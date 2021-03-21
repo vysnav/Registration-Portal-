@@ -9,8 +9,8 @@ This is a Pythion app that can be accessed by 2 entities, namely "Administrator"
 
 
 ## What all you need to run this ?
-*`Python 3.9`
-*`Tkinter` (a pre-installed library in Python 3.9)
+* `Python 3.9`
+* `Tkinter` (a pre-installed library in Python 3.9)
 
 ## This is how u install the above mentioned libs 😤
 * [Python 3.9](https://www.python.org/downloads/release/python-392/) 👈click this to install `Python`
