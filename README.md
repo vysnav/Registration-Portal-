@@ -19,7 +19,8 @@ This is a Python app that can be accessed by 2 entities, namely "Administrator" 
 
 > **Note:** Installation of `Tkinter` is done along with the installaion of `Python` so go through the `Tkinter` link before you install `Python` 
  
- 
+ ## Setup
+After installing all that requirements, download both the `images` folder and `Program.py` file in a single folder.
  
  ## That's it 😁
  #### Now run the `Program.py` in any Text editor to view the GUI.
