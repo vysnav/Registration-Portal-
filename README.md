@@ -22,7 +22,8 @@ This is a Pythion app that can be accessed by 2 entities, namely "Administrator"
  
  
  ## That's it 😁
- #### Now run the `Program.py` in any Text editor to view thw GUI.
+ #### Now run the `Program.py` in any Text editor to view the GUI.
  
  ## This is how it looks...
  ![](images/app_eg.jpeg)
+## Arigatou for visiting this Repo 👊
