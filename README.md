@@ -5,7 +5,7 @@
 
 
 ## What is this thing ? 🙄
-This is a Pythion app that can be accessed by 2 entities, namely "Administrator" and "Student". We will be using a cloud based database to access the data for this application and the GUI is made using `TKinter`.
+This is a Python app that can be accessed by 2 entities, namely "Administrator" and "Student". We will be using a cloud based database to access the data for this application and the GUI is made using `TKinter`.
 
 
 ## What all you need to run this ?
